@@ -1,4 +1,4 @@
 // 挨拶文を返す（ダミー）
 export function greeting(name) {
-	return `こんにちは、${name}さん`;
+	return `こんばんは、${name}さん`;
 }
